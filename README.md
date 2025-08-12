@@ -48,4 +48,8 @@ How to Run:
 	7.	View: JList (displays tasks)
 	8.	Controller: Action listeners (handle add/delete events)
 
+Author
+-------
+Developed by [Balaga Anushka] as part of *Java OOP Task 6*.
+
 
